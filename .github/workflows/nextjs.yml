@@ -80,7 +80,7 @@ jobs:
           git config --global user.name "hippi345"
           git config --global user.email "vision2020joel@gmail.com"
       - name: Deploy Next.js project to GitHub Pages
-        run: yarn gh-pages -- -d .next -b gh-pages
+        run: yarn gh-pages -d .next -b gh-pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
