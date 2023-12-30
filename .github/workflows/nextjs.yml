@@ -79,7 +79,7 @@ jobs:
         run: |
           git config --global user.name "hippi345"
           git config --global user.email "vision2020joel@gmail.com"
-          git remote set-url origin https://hippi345:${{ secrets.MY_TOKEN }}/hippi345/resume-site.git
+          git remote set-url origin https://hippi345\:${{ secrets.MY_TOKEN }}/hippi345/resume-site.git
       - name: Deploy Next.js project to GitHub Pages
         run: yarn gh-pages -d .next -b gh-pages
       - name: Upload artifact
