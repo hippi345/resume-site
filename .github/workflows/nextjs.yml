@@ -75,6 +75,10 @@ jobs:
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
       - name: Build with Next.js
         run: yarn build
+      - name: Setup GitHub credentials
+        run: |
+          git config --global user.name "hippi345"
+          git config --global user.email "vision2020joel@gmail.com"
       - name: Deploy Next.js project to GitHub Pages
         run: yarn gh-pages -- -d .next -b gh-pages
       - name: Upload artifact
