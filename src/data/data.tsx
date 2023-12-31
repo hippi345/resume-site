@@ -10,8 +10,8 @@ import {
 
 import GithubIcon from '../components/Icon/GithubIcon';
 import InstagramIcon from '../components/Icon/InstagramIcon';
-import heroImage from '../images/beach.png';
-import testimonialImage from '../images/halo.jpg';
+import heroImage from '../images/beach2.png';
+import testimonialImage from '../images/halo2.jpg';
 import porfolioImage1 from '../images/portfolio/portfolio-1.jpg';
 import porfolioImage2 from '../images/portfolio/portfolio-2.jpg';
 import porfolioImage3 from '../images/portfolio/portfolio-3.jpg';
