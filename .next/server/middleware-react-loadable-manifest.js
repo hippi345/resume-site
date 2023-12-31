@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST='{"index.tsx -> ../components/Sections/Header":{"id":9303,"files":["static/chunks/251.565dc56164fd9daf.js","static/chunks/303.1454dcdae507f1b1.js"]}}';
+self.__REACT_LOADABLE_MANIFEST='{"index.tsx -> ../components/Sections/Header":{"id":9303,"files":["static/chunks/251.565dc56164fd9daf.js","static/chunks/303.54ac2f0f97066ca0.js"]}}';
