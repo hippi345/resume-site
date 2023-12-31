@@ -81,9 +81,9 @@ export const heroData: Hero = {
     {
       //href: '/assets/resume.pdf',
       text: 'Resume',
+      href: '/resume',
       primary: true,
       Icon: ArrowDownTrayIcon,
-      download: '/assets/resume.pdf'
     },
     {
       href: `#${SectionId.Contact}`,
