@@ -10,6 +10,8 @@ import {
 import GithubIcon from '../components/Icon/GithubIcon';
 import InstagramIcon from '../components/Icon/InstagramIcon';
 import porfolioImage5 from '../images/fish.jpg';
+import friend1 from '../images/friend1.png';
+import friend2 from '../images/friend2.png';
 import porfolioImage4 from '../images/graduate.jpg';
 import porfolioImage1 from '../images/hacking.jpg';
 import heroImage from '../images/halo2.jpg';
@@ -258,19 +260,14 @@ export const testimonial: TestimonialSection = {
   imageSrc: testimonialImage,
   testimonials: [
     {
-      name: 'John Doe',
-      text: 'Use this as an opportunity to promote what it is like to work with you. High value testimonials include ones from current or past co-workers, managers, or from happy clients.',
-      image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/169.jpg',
+      name: 'Matt Smith - Twitch SWE',
+      text: 'Previous coworker from MSFT.',
+      image: '../images/friend1.png',
     },
     {
-      name: 'Jane Doe',
-      text: 'Here you should write some nice things that someone has said about you. Encourage them to be specific and include important details (notes about a project you were on together, impressive quality produced, etc).',
-      image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/14.jpg',
-    },
-    {
-      name: 'Someone else',
-      text: 'Add several of these, and keep them as fresh as possible, but be sure to focus on quality testimonials with strong highlights of your skills/work ethic.',
-      image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/69.jpg',
+      name: 'Brantley Montgomery - Tesla Engineer',
+      text: 'Long time friend since college at Georgia Tech.',
+      image: '../images/friend2.png',
     },
   ],
 };
