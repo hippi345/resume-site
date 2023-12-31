@@ -10,9 +10,6 @@ import {
 
 import GithubIcon from '../components/Icon/GithubIcon';
 import InstagramIcon from '../components/Icon/InstagramIcon';
-import LinkedInIcon from '../components/Icon/LinkedInIcon';
-import StackOverflowIcon from '../components/Icon/StackOverflowIcon';
-import TwitterIcon from '../components/Icon/TwitterIcon';
 import heroImage from '../images/header-background.webp';
 import porfolioImage1 from '../images/portfolio/portfolio-1.jpg';
 import porfolioImage2 from '../images/portfolio/portfolio-2.jpg';
@@ -301,6 +298,7 @@ export const experience: TimelineItem[] = [
 
 /**
  * Testimonial section
+ */
 
 export const testimonial: TestimonialSection = {
   imageSrc: testimonialImage,
@@ -321,7 +319,7 @@ export const testimonial: TestimonialSection = {
       image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/69.jpg',
     },
   ],
-};*/
+};
 
 /**
  * Contact section
