@@ -66,11 +66,11 @@ export type SectionId = (typeof SectionId)[keyof typeof SectionId];
  */
 export const heroData: Hero = {
   imageSrc: heroImage,
-  name: `I'm Joel Shearon.`,
+  name: `This is Joel?`,
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm an Atlanta based <strong className="text-stone-100">Full Stack Software Engineer</strong>, currently working
+        Yes, this is indeed Joel. I'm an Atlanta based <strong className="text-stone-100">Full Stack Software Engineer</strong>, currently working
         at <strong className="text-stone-100">Workday</strong> helping build a modern financial solutions applications for our customers at scale!
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
