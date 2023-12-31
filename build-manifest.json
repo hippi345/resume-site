@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/cEk1iX7NH2SNrST0n8P7B/_buildManifest.js",
-    "static/cEk1iX7NH2SNrST0n8P7B/_ssgManifest.js"
+    "static/KlX9fwu8fb-DBGqPyy_q8/_buildManifest.js",
+    "static/KlX9fwu8fb-DBGqPyy_q8/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -15,7 +15,7 @@
       "static/chunks/framework-66d32731bdd20e83.js",
       "static/chunks/main-4458a7cc480baeb4.js",
       "static/chunks/953-d68f8b8dbd48b9bc.js",
-      "static/chunks/pages/index-119bc78fb291cb26.js"
+      "static/chunks/pages/index-db696ec697aa5c9a.js"
     ],
     "/_app": [
       "static/chunks/webpack-b3aa3814020f0ece.js",
@@ -29,6 +29,12 @@
       "static/chunks/framework-66d32731bdd20e83.js",
       "static/chunks/main-4458a7cc480baeb4.js",
       "static/chunks/pages/_error-ee5b5fb91d29d86f.js"
+    ],
+    "/resume": [
+      "static/chunks/webpack-b3aa3814020f0ece.js",
+      "static/chunks/framework-66d32731bdd20e83.js",
+      "static/chunks/main-4458a7cc480baeb4.js",
+      "static/chunks/pages/resume-d8cbac42b1b3045f.js"
     ]
   },
   "ampFirstPages": []
