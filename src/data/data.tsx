@@ -78,6 +78,9 @@ export const heroData: Hero = {
         playing my <strong className="text-stone-100">drums</strong>, or exploring {' '}
         <strong className="text-stone-100">All 50 States in the USA</strong>.
       </p>
+      <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
+        This is a page with more information about me. Education information? It is here. Previous work? You bet! Links to relevant socials and contact information? Absolutely!
+      </p>
     </>
   ),
   actions: [
